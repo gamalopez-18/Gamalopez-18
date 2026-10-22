@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy López Pazos Gamaliel 👋
 
-<!--
-**gamalopez-18/Gamalopez-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🎓 Estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica
+- 📍 Soy de Manzanillo, Colima, México
+- 🌱 Actualmente estoy aprendiendo Git, Python, UML y Lenguaje C.
+- 🎯 Mi meta es Ser un ingeniero de software que sepa dominar diferentes lenguajes
+     y ganar mucho dinero desarrollando juegos.
 
-Here are some ideas to get you started:
+## Mis intereses
+- interés 1: Dominar distintos lenguajes de programación.
+- interés 2: Crear juegos famosos.
+- interés 3: Trabajar en una empresa de tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- 📧 Mi correo institucional es: glopez@ucol.mx
+- Mi LinkedIn es: www.linkedin.com/in/gamaliel-lópez-pazos-a84924436
+  
